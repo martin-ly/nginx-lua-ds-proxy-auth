@@ -1,6 +1,8 @@
 nginx-lua-ds-proxy-auth
 =======================
 
+Under developing
+
 一个具备认证模块的HTTP代理服务器，基于liseen/lua-resty-http
 
 A http proxy with auth module, based on liseen/lua-resty-http
