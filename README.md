@@ -3,9 +3,9 @@ nginx-lua-ds-proxy-auth
 
 Under developing
 
-一个具备认证模块的HTTP代理服务器，基于liseen/lua-resty-http
+一个具备认证模块的HTTP代理服务器，基于openresty/lua-nginx-module和liseen/lua-resty-http
 
-A http proxy with auth module, based on liseen/lua-resty-http
+A http proxy with auth module, based on openresty/lua-nginx-module and liseen/lua-resty-http
 
 将代码放在位于nginx根目录下的lua/ds_proxy_auth/下
 
